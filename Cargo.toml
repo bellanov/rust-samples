@@ -1,8 +1,8 @@
 [package]
 name = "rust-samples"
 version = "0.1.0"
-edition = "2021"
-rust-version = "1.70"
+edition = "2024"
+rust-version = "1.85"
 description = "Sample apps and code demonstrating modern Rust design patterns"
 repository = "https://github.com/bellanov/rust-samples"
 
